@@ -1,7 +1,12 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using Grant_Management_System.Data;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+builder.Services.AddDbContext<Grant_Management_SystemContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Grant_Management_SystemContext") ?? throw new InvalidOperationException("Connection string 'Grant_Management_SystemContext' not found.")));
 
 var app = builder.Build();
 
