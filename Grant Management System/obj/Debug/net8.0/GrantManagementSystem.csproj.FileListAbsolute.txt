@@ -28,3 +28,4 @@ C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\D
 C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\Debug\net8.0\GrantManagementSystem.pdb
 C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\Debug\net8.0\GrantManagementSystem.genruntimeconfig.cache
 C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\Debug\net8.0\ref\GrantManagementSystem.dll
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\Debug\net8.0\GrantManagementSystem.sourcelink.json
