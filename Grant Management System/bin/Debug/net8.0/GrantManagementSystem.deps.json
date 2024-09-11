@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GrantManagementSystem/1.0.0": {
+        "runtime": {
+          "GrantManagementSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GrantManagementSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

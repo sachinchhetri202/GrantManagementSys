@@ -1,0 +1,30 @@
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\bin\Debug\net8.0\appsettings.json
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\bin\Debug\net8.0\Grant Management System.staticwebassets.runtime.json
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\bin\Debug\net8.0\Grant Management System.exe
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\bin\Debug\net8.0\Grant Management System.deps.json
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\bin\Debug\net8.0\Grant Management System.runtimeconfig.json
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\bin\Debug\net8.0\Grant Management System.dll
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\bin\Debug\net8.0\Grant Management System.pdb
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\Debug\net8.0\Grant Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\Debug\net8.0\Grant Management System.AssemblyInfoInputs.cache
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\Debug\net8.0\Grant Management System.AssemblyInfo.cs
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\Debug\net8.0\Grant Management System.csproj.CoreCompileInputs.cache
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\Debug\net8.0\Grant Management System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\Debug\net8.0\Grant Management System.RazorAssemblyInfo.cache
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\Debug\net8.0\Grant Management System.RazorAssemblyInfo.cs
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\Debug\net8.0\staticwebassets\msbuild.Grant Management System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\Debug\net8.0\staticwebassets\msbuild.build.Grant Management System.props
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Grant Management System.props
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Grant Management System.props
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\Debug\net8.0\scopedcss\bundle\Grant Management System.styles.css
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\Debug\net8.0\scopedcss\projectbundle\Grant Management System.bundle.scp.css
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\Debug\net8.0\Grant Management System.dll
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\Debug\net8.0\refint\Grant Management System.dll
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\Debug\net8.0\Grant Management System.pdb
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\Debug\net8.0\Grant Management System.genruntimeconfig.cache
+C:\Users\sachi\source\repos\GrantManagementSysDemo\Grant Management System\obj\Debug\net8.0\ref\Grant Management System.dll
