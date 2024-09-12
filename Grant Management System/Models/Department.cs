@@ -9,12 +9,12 @@ namespace Grant_Management_System.Models
 
         [Required]
         [StringLength(100)]
-        [Display(Name ="Department Name")]
+        [Display(Name = "Department Name")]
         public string? DepartmentName { get; set; }
 
         [Required]
         [StringLength(50)]
-        [Display(Name="Department Chair")]
+        [Display(Name= "Department Chair")]
         public string? DepartmentChair { get; set; }
 
         [Required]
