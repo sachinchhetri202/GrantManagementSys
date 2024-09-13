@@ -1,0 +1,75 @@
+﻿@page
+@model GrantApp.Pages.Account.SignUpModel
+@{
+    ViewData["Title"] = "Sign Up";
+}
+
+<h2>Sign Up</h2>
+
+<form method="post">
+    <!-- Username (Email) -->
+    <label for="email">Username (Email):</label>
+    <input type="email" id="email" name="Email" asp-for="Email" required />
+    <span asp-validation-for="Email" class="text-danger"></span>
+
+    <!-- First Name -->
+    <label for="firstName">First Name:</label>
+    <input type="text" id="firstName" name="FirstName" asp-for="FirstName" required />
+    <span asp-validation-for="FirstName" class="text-danger"></span>
+
+    <!-- Last Name -->
+    <label for="lastName">Last Name:</label>
+    <input type="text" id="lastName" name="LastName" asp-for="LastName" required />
+    <span asp-validation-for="LastName" class="text-danger"></span>
+
+    <!-- W# -->
+    <label for="wNumber">W#:</label>
+    <input type="text" id="wNumber" name="WNumber" asp-for="WNumber" required />
+    <span asp-validation-for="WNumber" class="text-danger"></span>
+
+    <!-- Password -->
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="Password" asp-for="Password" required />
+    <span asp-validation-for="Password" class="text-danger"></span>
+
+    <!-- Confirm Password -->
+    <label for="confirmPassword">Confirm Password:</label>
+    <input type="password" id="confirmPassword" name="ConfirmPassword" asp-for="ConfirmPassword" required />
+    <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+
+    <!-- Admin Checkbox -->
+    @if (Model.CanShowAdmin)
+    {
+        <div>
+            <label for="isAdmin">Admin</label>
+            <input type="checkbox" id="isAdmin" asp-for="IsAdmin" />
+        </div>
+    }
+
+    <!-- Chair Checkbox -->
+    <label for="isChair">Chair</label>
+    <input type="checkbox" id="isChair" asp-for="IsChair" />
+
+    <!-- Type of Faculty -->
+    <label for="facultyType">Faculty Type:</label>
+    <select id="facultyType" asp-for="FacultyType">
+        <option value="Tenured">Tenured</option>
+        <option value="TenureTrack">Tenure Track</option>
+        <option value="Instructor">Instructor</option>
+        <option value="Adjunct">Adjunct</option>
+        <option value="Staff">Staff</option>
+    </select>
+
+    <!-- Colleges and Departments -->
+    <label for="department">Department:</label>
+    <select id="department" asp-for="Department">
+        <option value="science">College of Science</option>
+        <option value="engineering">College of Engineering</option>
+        <option value="business">College of Business</option>
+        <option value="Nursing "> College of Health and Science </option>
+    </select>
+    <button type="submit">Create Account</button>
+</form>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
