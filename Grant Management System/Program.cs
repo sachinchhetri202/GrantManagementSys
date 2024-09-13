@@ -3,6 +3,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Grant_Management_System.Data;
 var builder = WebApplication.CreateBuilder(args);
 
+//Comment for test commit by CJ 9/13/24
+
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddDbContext<Grant_Management_SystemContext>(options =>
