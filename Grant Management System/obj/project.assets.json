@@ -8053,11 +8053,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chjon\\Source\\GrantManagementSystem\\Grant Management System\\GrantManagementSystem.csproj",
+      "projectUniqueName": "C:\\Users\\chjon\\Source\\Repos\\GrantManagementSystem\\Grant Management System\\GrantManagementSystem.csproj",
       "projectName": "GrantManagementSystem",
-      "projectPath": "C:\\Users\\chjon\\Source\\GrantManagementSystem\\Grant Management System\\GrantManagementSystem.csproj",
+      "projectPath": "C:\\Users\\chjon\\Source\\Repos\\GrantManagementSystem\\Grant Management System\\GrantManagementSystem.csproj",
       "packagesPath": "C:\\Users\\chjon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chjon\\Source\\GrantManagementSystem\\Grant Management System\\obj\\",
+      "outputPath": "C:\\Users\\chjon\\Source\\Repos\\GrantManagementSystem\\Grant Management System\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chjon\\AppData\\Roaming\\NuGet\\NuGet.Config",
