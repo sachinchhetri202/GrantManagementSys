@@ -19,6 +19,7 @@ mono_crash.*
 #Specific files for Grant Management Application
 [Dd]ebug\
 Grant Management System\obj
+*.GeneratedMSBuildEditorConfig.editorconfig
 
 # Build results
 [Dd]ebug/
