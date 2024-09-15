@@ -794,3 +794,15 @@ C:\Users\chjon\Source\Repos\GrantManagementSystem\Grant Management System\obj\De
 C:\Users\chjon\Source\Repos\GrantManagementSystem\Grant Management System\obj\Debug\net8.0\GrantManagementSystem.pdb
 C:\Users\chjon\Source\Repos\GrantManagementSystem\Grant Management System\obj\Debug\net8.0\GrantManagementSystem.genruntimeconfig.cache
 C:\Users\chjon\Source\Repos\GrantManagementSystem\Grant Management System\obj\Debug\net8.0\ref\GrantManagementSystem.dll
+C:\Users\Wesley\Source\Repos\GrantManagementSystem\Grant Management System\obj\Debug\net8.0\GrantManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Wesley\Source\Repos\GrantManagementSystem\Grant Management System\obj\Debug\net8.0\GrantManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesley\Source\Repos\GrantManagementSystem\Grant Management System\obj\Debug\net8.0\GrantManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Wesley\Source\Repos\GrantManagementSystem\Grant Management System\obj\Debug\net8.0\GrantManagementSystem.AssemblyInfo.cs
+C:\Users\Wesley\Source\Repos\GrantManagementSystem\Grant Management System\obj\Debug\net8.0\GrantManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\Source\Repos\GrantManagementSystem\Grant Management System\obj\Debug\net8.0\GrantManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wesley\Source\Repos\GrantManagementSystem\Grant Management System\obj\Debug\net8.0\GrantManagementSystem.RazorAssemblyInfo.cache
+C:\Users\Wesley\Source\Repos\GrantManagementSystem\Grant Management System\obj\Debug\net8.0\GrantManagementSystem.RazorAssemblyInfo.cs
+C:\Users\Wesley\Source\Repos\GrantManagementSystem\Grant Management System\obj\Debug\net8.0\GrantManagementSystem.sourcelink.json
+C:\Users\Wesley\Source\Repos\GrantManagementSystem\Grant Management System\obj\Debug\net8.0\GrantManagementSystem.dll
+C:\Users\Wesley\Source\Repos\GrantManagementSystem\Grant Management System\obj\Debug\net8.0\refint\GrantManagementSystem.dll
+C:\Users\Wesley\Source\Repos\GrantManagementSystem\Grant Management System\obj\Debug\net8.0\GrantManagementSystem.pdb
