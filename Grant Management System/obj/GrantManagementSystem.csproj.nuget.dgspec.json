@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\chjon\\Source\\GrantManagementSystem\\Grant Management System\\GrantManagementSystem.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chjon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "C:\\Users\\Wesley\\Source\\Repos\\GrantManagementSystem\\Grant Management System\\GrantManagementSystem.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Wesley\\Source\\Repos\\GrantManagementSystem\\Grant Management System\\GrantManagementSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Wesley\\Source\\Repos\\GrantManagementSystem\\Grant Management System\\GrantManagementSystem.csproj",
+        "projectName": "GrantManagementSystem",
+        "projectPath": "C:\\Users\\Wesley\\Source\\Repos\\GrantManagementSystem\\Grant Management System\\GrantManagementSystem.csproj",
+        "packagesPath": "C:\\Users\\Wesley\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wesley\\Source\\Repos\\GrantManagementSystem\\Grant Management System\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Wesley\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 90feb8a0231ae8ce36dace98543119a98fb48a34
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
