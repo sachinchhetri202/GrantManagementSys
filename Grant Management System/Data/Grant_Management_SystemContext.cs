@@ -13,8 +13,8 @@ namespace Grant_Management_System.Data
             : base(options)
         {
         }
-
         public DbSet<Grant_Management_System.Models.Department> Department { get; set; } = default!;
         public DbSet<Grant_Management_System.Models.User> User { get; set; } = default!;
+
     }
 }

@@ -21,21 +21,11 @@ namespace Grant_Management_System.Pages.Departments
 
         public IActionResult OnGet()
         {
-            // Populate the dropdown with colleges from the database
-            /*
-            ViewBag.CollegeList = _context.Colleges
-                .Select(c => new SelectListItem
-                {
-                    Value = c.CollegeId.ToString(),
-                    Text = c.CollegeName
-                }).ToList();
-            */
             return Page();
         }
 
         [BindProperty]
         public Department Department { get; set; } = default!;
-
 
         // For more information, see https://aka.ms/RazorPagesCRUD.
         public async Task<IActionResult> OnPostAsync()

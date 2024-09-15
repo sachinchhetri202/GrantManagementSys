@@ -26,6 +26,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\chjon\Source\Repos\GrantManagementSystem\Grant Management System
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/chjon/Source/Repos/GrantManagementSystem/Grant Management System/Pages/Account/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxEYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chjon/Source/Repos/GrantManagementSystem/Grant Management System/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/chjon/Source/Repos/GrantManagementSystem/Grant Management System/Pages/Account/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxTaWduVXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

@@ -2,12 +2,12 @@
 @model Grant_Management_System.Pages.Departments.CreateModel
 
 @{
-    ViewData["Title"] = "Add New Department";
+    ViewData["Title"] = "Create";
 }
 
-<h1>Create a new department.</h1>
-<p style="color:red">*All fields are required!</p>
+<h1>Create</h1>
 
+<h4>Department</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
@@ -28,14 +28,8 @@
                 <input asp-for="Department.DepartmentLocation" class="form-control" />
                 <span asp-validation-for="Department.DepartmentLocation" class="text-danger"></span>
             </div>
-            <!-- Dropdown for selecting the College 
             <div class="form-group">
-                <label asp-for="Department.CollegeId" class="control-label">Select College</label>
-                <select asp-for="Department.CollegeId" class="form-control" asp-items="ViewBag.CollegeList"></select>
-                <span asp-validation-for="Department.CollegeId" class="text-danger"></span>
-            </div> -->
-            <div class="form-group" style="padding:15px;">
-                <input type="submit" value="Add as new Department" class="btn btn-primary" />
+                <input type="submit" value="Create" class="btn btn-primary" />
             </div>
         </form>
     </div>

@@ -4,7 +4,6 @@ namespace Grant_Management_System.Models
 {
     public class Department
     {
-
         public int Id { get; set; }
 
         [Required]
@@ -14,7 +13,7 @@ namespace Grant_Management_System.Models
 
         [Required]
         [StringLength(50)]
-        [Display(Name= "Department Chair")]
+        [Display(Name = "Department Chair")]
         public string? DepartmentChair { get; set; }
 
         [Required]
