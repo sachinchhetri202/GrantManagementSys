@@ -1,0 +1,226 @@
+﻿@page
+@model Grant_Management_System.Pages.Account.DashboardModel
+@{
+}
+
+<body>
+    <div class="container mt-5">
+        <!--Start first row of Applied Grants-->
+        <div class="row">
+            <h3>Applied Grants</h3>
+
+            <div class="col-md-4 mb">
+                <div class="card" style="width: 22rem;" data-bs-toggle="modal" data-bs-target="#appliedGrantModal1">
+                    <div class="card-body">
+                        <h5 class="card-title">Colorado Research Conference</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb">
+                <div class="card" style="width: 22rem;" data-bs-toggle="modal" data-bs-target="#appliedGrantModal2">
+                    <div class="card-body">
+                        <h5 class="card-title">Computer OS Research</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb">
+                <div class="card" style="width: 22rem;" data-bs-toggle="modal" data-bs-target="#appliedGrantModal3">
+                    <div class="card-body">
+                        <h5 class="card-title">Biochemistry Research</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--Start row for Approved grants-->
+        <div class="row" style="padding-top: 50px">
+            <h3>Approved Grants</h3>
+
+            <div class="col-md-4 mb">
+                <div class="card" style="width: 22rem;" data-bs-toggle="modal" data-bs-target="#approvedGrantModal1">
+                    <div class="card-body">
+                        <h5 class="card-title">Nanotechnology Applications in Drug Delivery Systems</h5>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb">
+                <div class="card" style="width: 22rem;" data-bs-toggle="modal" data-bs-target="#approvedGrantModal2">
+                    <div class="card-body">
+                        <h5 class="card-title">AI-Driven Solutions for Cancer Detection</h5>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb">
+                <div class="card" style="width: 22rem;" data-bs-toggle="modal" data-bs-target="#approvedGrantModal3">
+                    <div class="card-body">
+                        <h5 class="card-title">Water Purification Solutions Using Biofilters</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row" style="padding-top: 50px">
+            <h3>Upcoming Deadlines</h3>
+            <div class="card mb-3" style="width: 45rem;">
+                <a href="/account/dashboard" style="text-decoration: none; color: inherit;">
+                    <div>
+                        <p>Smart Cities: Integrating IoT for Efficient Resource Management</p>
+                        <p>Date: 11/20/2024</p>
+                    </div>
+                </a>
+            </div>
+            <div class="card mb-3" style="width: 45rem;">
+                <a href="/account/dashboard" style="text-decoration: none; color: inherit;">
+                    <div>
+                        <p>Clean Energy Storage: Next-Generation Battery Technologies</p>
+                        <p>Date: 12/15/2024</p>
+                    </div>
+                </a>
+            </div>
+            <div class="card mb-3" style="width: 45rem;">
+                <a href="/account/dashboard" style="text-decoration: none; color: inherit;">
+                    <div>
+                        <p>CRISPR Technology for Genetic Disease Prevention</p>
+                        <p>Date: 02/10/2025</p>
+                    </div>
+                </a>
+            </div>
+            <div class="card mb-3" style="width: 45rem;">
+                <a href="/account/dashboard" style="text-decoration: none; color: inherit;">
+                    <div>
+                        <p>Advancing Quantum Computing in Cryptography</p>
+                        <p>Date: 05/15/2025</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <!--Start the modals for applied grants-->
+
+    <div class="modal fade" id="appliedGrantModal1" tabindex="-1" aria-labelledby="appliedGrantLabel1" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="appliedGrantLabel1">First Grant Title - Details</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>Grant Type: Travel Grant</p>
+                    <p>Grant Title: Colorado Research Conference</p>
+                    <p>Duration: 1 week</p>
+                    <p>Amount: $1500.00</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="appliedGrantModal2" tabindex="-1" aria-labelledby="appliedGrantLabel2" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="appliedGrantLabel2">Second Grant Title - Details</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>Grant Type: Spring Grant</p>
+                    <p>Grant Title: Computer OS Research</p>
+                    <p>Duration: 4 months</p>
+                    <p>Amount: $3500.00</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="appliedGrantModal3" tabindex="-1" aria-labelledby="appliedGrantLabel3" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="appliedGrantLabel3">Third Grant Title - Details</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>Grant Type: Fall Grant</p>
+                    <p>Grant Title: Biochemistry Research</p>
+                    <p>Duration: 3 months</p>
+                    <p>Amount: $4500.00</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--Start modals for approved Grants-->
+    <div class="modal fade" id="approvedGrantModal1" tabindex="-1" aria-labelledby="approvedGrantLabel1" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="approvedGrantLabel1">First Grant Title - Details</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>Grant Type: Fall Grant</p>
+                    <p>Grant Title: Nanotechnology Applications in Drug Delivery Systems</p>
+                    <p>Duration: 5 months</p>
+                    <p>Amount: $10000.00</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="approvedGrantModal2" tabindex="-1" aria-labelledby="approvedGrantLabel2" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="approvedGrantLabel2">Second Grant Title - Details</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>Grant Type: Travel Grant</p>
+                    <p>Grant Title: AI-Driven Solutions for Cancer Detection</p>
+                    <p>Duration: 2 weeks</p>
+                    <p>Amount: $5500.00</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="approvedGrantModal3" tabindex="-1" aria-labelledby="approvedGrantLabel3" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="approvedGrantLabel3">Third Grant Title - Details</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>Grant Type: Spring Grant</p>
+                    <p>Grant Title: Water Purification Solutions Using Biofilters</p>
+                    <p>Duration: 4 months</p>
+                    <p>Amount: $2750.00</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
