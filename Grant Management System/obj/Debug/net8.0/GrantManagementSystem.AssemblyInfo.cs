@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GrantManagementSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ab840db07259bfdeb990266a9c7b47d4bd98dde")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06889174be8c10f0349a4beeb9b877f39dc7176f")]
 [assembly: System.Reflection.AssemblyProductAttribute("GrantManagementSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GrantManagementSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

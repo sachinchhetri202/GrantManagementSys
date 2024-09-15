@@ -16,5 +16,6 @@ namespace Grant_Management_System.Data
 
         public DbSet<Grant_Management_System.Models.Department> Department { get; set; } = default!;
         public DbSet<Grant_Management_System.Models.User> User { get; set; } = default!;
+        public DbSet<Grant_Management_System.Models.College> College { get; set; } = default!;
     }
 }
