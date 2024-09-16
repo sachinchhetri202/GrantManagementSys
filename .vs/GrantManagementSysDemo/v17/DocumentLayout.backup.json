@@ -1,50 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\chjon\\source\\GrantManagementSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\chjon\\source\\grantmanagementsystem\\grant management system\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\belalglab\\source\\repos\\grantmanagementsystem\\grant management system\\pages\\account\\adminrspg.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|solutionrelative:grant management system\\pages\\account\\adminrspg.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\belalglab\\source\\repos\\grantmanagementsystem\\grant management system\\pages\\account\\adminrspg.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|solutionrelative:grant management system\\pages\\account\\adminrspg.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\belalglab\\source\\repos\\grantmanagementsystem\\grant management system\\pages\\departments\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|solutionrelative:grant management system\\pages\\departments\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\belalglab\\source\\repos\\grantmanagementsystem\\grant management system\\pages\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|solutionrelative:grant management system\\pages\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\belalglab\\source\\repos\\grantmanagementsystem\\grant management system\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|solutionrelative:grant management system\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\chjon\\source\\grantmanagementsystem\\grant management system\\models\\seedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|solutionrelative:grant management system\\models\\seedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\chjon\\source\\grantmanagementsystem\\grant management system\\pages\\account\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|solutionrelative:grant management system\\pages\\account\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\chjon\\source\\grantmanagementsystem\\grant management system\\pages\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|solutionrelative:grant management system\\pages\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\chjon\\source\\grantmanagementsystem\\grant management system\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\belalglab\\source\\repos\\grantmanagementsystem\\grant management system\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|solutionrelative:grant management system\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\chjon\\source\\grantmanagementsystem\\grant management system\\pages\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|solutionrelative:grant management system\\pages\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\chjon\\source\\grantmanagementsystem\\grant management system\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|solutionrelative:grant management system\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\chjon\\source\\grantmanagementsystem\\grant management system\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|solutionrelative:grant management system\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\chjon\\source\\grantmanagementsystem\\grant management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|solutionrelative:grant management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\chjon\\source\\grantmanagementsystem\\grant management system\\data\\grant_management_systemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|solutionrelative:grant management system\\data\\grant_management_systemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\chjon\\source\\grantmanagementsystem\\grant management system\\pages\\users\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|solutionrelative:grant management system\\pages\\users\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\belalglab\\source\\repos\\grantmanagementsystem\\grant management system\\pages\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|solutionrelative:grant management system\\pages\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,20 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -81,141 +53,103 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SeedUsers.cs",
-              "DocumentMoniker": "C:\\Users\\chjon\\source\\GrantManagementSystem\\Grant Management System\\Models\\SeedUsers.cs",
-              "RelativeDocumentMoniker": "Grant Management System\\Models\\SeedUsers.cs",
-              "ToolTip": "C:\\Users\\chjon\\source\\GrantManagementSystem\\Grant Management System\\Models\\SeedUsers.cs",
-              "RelativeToolTip": "Grant Management System\\Models\\SeedUsers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T20:52:08.864Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Dashboard.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\chjon\\source\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\Dashboard.cshtml.cs",
-              "RelativeDocumentMoniker": "Grant Management System\\Pages\\Account\\Dashboard.cshtml.cs",
-              "ToolTip": "C:\\Users\\chjon\\source\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\Dashboard.cshtml.cs",
-              "RelativeToolTip": "Grant Management System\\Pages\\Account\\Dashboard.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Departments\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Grant Management System\\Pages\\Departments\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Departments\\Create.cshtml.cs",
+              "RelativeToolTip": "Grant Management System\\Pages\\Departments\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T20:50:22.007Z",
+              "WhenOpened": "2024-09-16T14:27:46.514Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\chjon\\source\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "Grant Management System\\Pages\\Account\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\chjon\\source\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\Dashboard.cshtml",
-              "RelativeToolTip": "Grant Management System\\Pages\\Account\\Dashboard.cshtml",
-              "ViewState": "AgIAAIoAAAAAAAAAAAAgwOEAAAAHAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Grant Management System\\Pages\\Departments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Departments\\Create.cshtml",
+              "RelativeToolTip": "Grant Management System\\Pages\\Departments\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-15T20:49:56.613Z",
+              "WhenOpened": "2024-09-16T14:27:41.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminRSPG.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\AdminRSPG.cshtml.cs",
+              "RelativeDocumentMoniker": "Grant Management System\\Pages\\Account\\AdminRSPG.cshtml.cs",
+              "ToolTip": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\AdminRSPG.cshtml.cs",
+              "RelativeToolTip": "Grant Management System\\Pages\\Account\\AdminRSPG.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T04:12:49.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\chjon\\source\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "Grant Management System\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\chjon\\source\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "Grant Management System\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T20:31:03.501Z",
+              "Title": "AdminRSPG.cshtml",
+              "DocumentMoniker": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\AdminRSPG.cshtml",
+              "RelativeDocumentMoniker": "Grant Management System\\Pages\\Account\\AdminRSPG.cshtml",
+              "ToolTip": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\AdminRSPG.cshtml",
+              "RelativeToolTip": "Grant Management System\\Pages\\Account\\AdminRSPG.cshtml",
+              "ViewState": "AgIAAAYAAADOAAAAAEAlwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T04:11:11.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\chjon\\source\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Grant Management System\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\chjon\\source\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "Grant Management System\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAQwB8AAAAGAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Grant Management System\\Pages\\Account\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\Dashboard.cshtml",
+              "RelativeToolTip": "Grant Management System\\Pages\\Account\\Dashboard.cshtml",
+              "ViewState": "AgIAANkAAAAAf5mZmRkmwMgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-15T20:30:42.652Z",
+              "WhenOpened": "2024-09-16T03:54:30.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "SignUp.cshtml",
-              "DocumentMoniker": "C:\\Users\\chjon\\source\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\SignUp.cshtml",
-              "RelativeDocumentMoniker": "Grant Management System\\Pages\\Account\\SignUp.cshtml",
-              "ToolTip": "C:\\Users\\chjon\\source\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\SignUp.cshtml",
-              "RelativeToolTip": "Grant Management System\\Pages\\Account\\SignUp.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Grant Management System\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Grant Management System\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-15T20:30:12.808Z"
+              "WhenOpened": "2024-09-15T21:48:44.502Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\chjon\\source\\GrantManagementSystem\\Grant Management System\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Grant Management System\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\chjon\\source\\GrantManagementSystem\\Grant Management System\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Grant Management System\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-14T23:48:25.134Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\chjon\\source\\GrantManagementSystem\\Grant Management System\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Grant Management System\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\chjon\\source\\GrantManagementSystem\\Grant Management System\\Models\\User.cs",
-              "RelativeToolTip": "Grant Management System\\Models\\User.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAkwCoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Grant Management System\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Grant Management System\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T23:37:27.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Grant_Management_SystemContext.cs",
-              "DocumentMoniker": "C:\\Users\\chjon\\source\\GrantManagementSystem\\Grant Management System\\Data\\Grant_Management_SystemContext.cs",
-              "RelativeDocumentMoniker": "Grant Management System\\Data\\Grant_Management_SystemContext.cs",
-              "ToolTip": "C:\\Users\\chjon\\source\\GrantManagementSystem\\Grant Management System\\Data\\Grant_Management_SystemContext.cs",
-              "RelativeToolTip": "Grant Management System\\Data\\Grant_Management_SystemContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T00:00:14.998Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\chjon\\source\\GrantManagementSystem\\Grant Management System\\Program.cs",
-              "RelativeDocumentMoniker": "Grant Management System\\Program.cs",
-              "ToolTip": "C:\\Users\\chjon\\source\\GrantManagementSystem\\Grant Management System\\Program.cs",
-              "RelativeToolTip": "Grant Management System\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T23:53:38.236Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\chjon\\source\\GrantManagementSystem\\Grant Management System\\Pages\\Users\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "Grant Management System\\Pages\\Users\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\chjon\\source\\GrantManagementSystem\\Grant Management System\\Pages\\Users\\Create.cshtml.cs",
-              "RelativeToolTip": "Grant Management System\\Pages\\Users\\Create.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T00:57:31.905Z"
+              "WhenOpened": "2024-09-15T20:31:03.501Z",
+              "EditorCaption": ""
             }
           ]
         }

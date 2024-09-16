@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chjon\\Source\\Repos\\GrantManagementSystem\\Grant Management System\\GrantManagementSystem.csproj": {}
+    "C:\\Users\\belalglab\\Source\\Repos\\GrantManagementSystem\\Grant Management System\\GrantManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chjon\\Source\\Repos\\GrantManagementSystem\\Grant Management System\\GrantManagementSystem.csproj": {
+    "C:\\Users\\belalglab\\Source\\Repos\\GrantManagementSystem\\Grant Management System\\GrantManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chjon\\Source\\Repos\\GrantManagementSystem\\Grant Management System\\GrantManagementSystem.csproj",
+        "projectUniqueName": "C:\\Users\\belalglab\\Source\\Repos\\GrantManagementSystem\\Grant Management System\\GrantManagementSystem.csproj",
         "projectName": "GrantManagementSystem",
-        "projectPath": "C:\\Users\\chjon\\Source\\Repos\\GrantManagementSystem\\Grant Management System\\GrantManagementSystem.csproj",
-        "packagesPath": "C:\\Users\\chjon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chjon\\Source\\Repos\\GrantManagementSystem\\Grant Management System\\obj\\",
+        "projectPath": "C:\\Users\\belalglab\\Source\\Repos\\GrantManagementSystem\\Grant Management System\\GrantManagementSystem.csproj",
+        "packagesPath": "C:\\Users\\belalglab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\belalglab\\Source\\Repos\\GrantManagementSystem\\Grant Management System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\chjon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\belalglab\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
