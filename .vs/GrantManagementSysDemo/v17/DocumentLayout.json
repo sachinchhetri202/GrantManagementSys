@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wesley\\source\\repos\\GrantManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\wesley\\source\\repos\\grantmanagementsystem\\grant management system\\models\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|solutionrelative:grant management system\\models\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\wesley\\source\\repos\\grantmanagementsystem\\grant management system\\pages\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|solutionrelative:grant management system\\pages\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "College.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\source\\repos\\GrantManagementSystem\\Grant Management System\\Models\\College.cs",
+              "RelativeDocumentMoniker": "Grant Management System\\Models\\College.cs",
+              "ToolTip": "C:\\Users\\Wesley\\source\\repos\\GrantManagementSystem\\Grant Management System\\Models\\College.cs",
+              "RelativeToolTip": "Grant Management System\\Models\\College.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:27:41.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wesley\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Grant Management System\\Pages\\Departments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Wesley\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Departments\\Create.cshtml",
+              "RelativeToolTip": "Grant Management System\\Pages\\Departments\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T15:25:57.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
