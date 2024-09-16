@@ -1,0 +1,70 @@
+﻿@page
+@model Grant_Management_System.Pages.Account.AdminRSPGModel
+@{
+    ViewData["Title"] = "RSPG Page - Admin";
+}
+
+<h2>Admin Page - RSPG</h2>
+<!--The layout for the User Admin-->
+<nav>
+    <ul>
+        <li><a href="/Account/AdminRSPG">RSPG Page</a></li>
+        <li><a href="/Account/OUR">OUR Page</a></li>
+        <li><a href="/Account/ARCC">ARCC Page</a></li>
+    </ul>
+</nav>
+
+
+
+<h4>Current Members</h4>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Department</th>
+            <th>College</th>
+            <th>L</th>
+            <th>F</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var member in Model.Members)
+        {
+            <tr>
+                <td>@member.Name</td>
+                <td>@member.Department</td>
+                <td>@member.College</td>
+                <td>@member.L</td>
+                <td>@member.F</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!<!-- Adding community members -->
+<h5>Add Community Members</h5>
+<form method="post" action="/AddMember">
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Department</th>
+                <th>College</th>
+                <th>L</th>
+                <th>F</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><input type="text" name="Name" /></td>
+                <td><input type="text" name="Department" /></td>
+                <td><input type="text" name="College" /></td>
+                <td><input type="text" name="L" /></td>
+                <td><input type="text" name="F" /></td>
+                <td><button type="submit">Add</button></td>
+            </tr>
+        </tbody>
+    </table>
+</form>
+
