@@ -16,7 +16,7 @@ namespace Grant_Management_System.Pages.Account
             //    var isAdmin = HttpContext.Session.GetString("IsAdmin");
             //    var isChair = HttpContext.Session.GetString("IsChair");
 
-            //test gitignore again
+            //testing
         }
     }
 }
