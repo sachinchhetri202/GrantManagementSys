@@ -3,10 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\belalglab\\source\\repos\\grantmanagementsystem\\grant management system\\pages\\account\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|solutionrelative:grant management system\\pages\\account\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+=======
+      "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\belalglab\\source\\repos\\grantmanagementsystem\\grant management system\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|solutionrelative:grant management system\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\belalglab\\source\\repos\\grantmanagementsystem\\grant management system\\pages\\account\\adminrspg.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|solutionrelative:grant management system\\pages\\account\\adminrspg.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\belalglab\\source\\repos\\grantmanagementsystem\\grant management system\\pages\\account\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|solutionrelative:grant management system\\pages\\account\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> Stashed changes
       "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\belalglab\\source\\repos\\grantmanagementsystem\\grant management system\\models\\seedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|solutionrelative:grant management system\\models\\seedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,10 +34,13 @@
       "RelativeMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|solutionrelative:grant management system\\pages\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\belalglab\\source\\repos\\grantmanagementsystem\\grant management system\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|solutionrelative:grant management system\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+=======
+>>>>>>> Stashed changes
       "AbsoluteMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|c:\\users\\belalglab\\source\\repos\\grantmanagementsystem\\grant management system\\pages\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6E89F422-8954-490E-8BD0-BB5E1AEAC3B1}|Grant Management System\\GrantManagementSystem.csproj|solutionrelative:grant management system\\pages\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -54,7 +72,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 7,
+=======
+          "SelectedChildIndex": 11,
+>>>>>>> Stashed changes
           "Children": [
             {
               "$type": "Bookmark",
@@ -83,6 +105,22 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< Updated upstream
+=======
+              "Title": "AdminRSPG.cshtml",
+              "DocumentMoniker": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\AdminRSPG.cshtml",
+              "RelativeDocumentMoniker": "Grant Management System\\Pages\\Account\\AdminRSPG.cshtml",
+              "ToolTip": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\AdminRSPG.cshtml",
+              "RelativeToolTip": "Grant Management System\\Pages\\Account\\AdminRSPG.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T15:10:05.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+>>>>>>> Stashed changes
               "Title": "SeedUsers.cs",
               "DocumentMoniker": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Models\\SeedUsers.cs",
               "RelativeDocumentMoniker": "Grant Management System\\Models\\SeedUsers.cs",
@@ -94,7 +132,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 0,
+=======
+              "DocumentIndex": 2,
+>>>>>>> Stashed changes
               "Title": "Dashboard.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\Dashboard.cshtml.cs",
               "RelativeDocumentMoniker": "Grant Management System\\Pages\\Account\\Dashboard.cshtml.cs",
@@ -104,6 +146,7 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T20:50:22.007Z",
               "EditorCaption": ""
+<<<<<<< Updated upstream
             },
             {
               "$type": "Document",
@@ -120,6 +163,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+=======
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Grant Management System\\Pages\\Account\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\Dashboard.cshtml",
+              "RelativeToolTip": "Grant Management System\\Pages\\Account\\Dashboard.cshtml",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAgwOEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T20:49:56.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+>>>>>>> Stashed changes
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "Grant Management System\\Pages\\Account\\Login.cshtml.cs",
@@ -131,12 +192,17 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 4,
+=======
+              "DocumentIndex": 0,
+>>>>>>> Stashed changes
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Grant Management System\\Pages\\Account\\Login.cshtml",
               "ToolTip": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\Login.cshtml",
               "RelativeToolTip": "Grant Management System\\Pages\\Account\\Login.cshtml",
+<<<<<<< Updated upstream
               "ViewState": "AgIAAAEAAAAAAAAAAAAQwB8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-15T20:30:42.652Z"
@@ -144,6 +210,16 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T20:30:42.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+>>>>>>> Stashed changes
               "Title": "SignUp.cshtml",
               "DocumentMoniker": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Account\\SignUp.cshtml",
               "RelativeDocumentMoniker": "Grant Management System\\Pages\\Account\\SignUp.cshtml",
@@ -155,7 +231,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 6,
+=======
+              "DocumentIndex": 7,
+>>>>>>> Stashed changes
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Grant Management System\\Pages\\Shared\\_Layout.cshtml",
@@ -167,7 +247,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 7,
+=======
+              "DocumentIndex": 8,
+>>>>>>> Stashed changes
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Models\\User.cs",
               "RelativeDocumentMoniker": "Grant Management System\\Models\\User.cs",
@@ -179,7 +263,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 9,
+=======
+              "DocumentIndex": 10,
+>>>>>>> Stashed changes
               "Title": "Grant_Management_SystemContext.cs",
               "DocumentMoniker": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Data\\Grant_Management_SystemContext.cs",
               "RelativeDocumentMoniker": "Grant Management System\\Data\\Grant_Management_SystemContext.cs",
@@ -191,7 +279,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 8,
+=======
+              "DocumentIndex": 9,
+>>>>>>> Stashed changes
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Program.cs",
               "RelativeDocumentMoniker": "Grant Management System\\Program.cs",
@@ -203,7 +295,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 10,
+=======
+              "DocumentIndex": 11,
+>>>>>>> Stashed changes
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\belalglab\\source\\repos\\GrantManagementSystem\\Grant Management System\\Pages\\Users\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Grant Management System\\Pages\\Users\\Create.cshtml.cs",
